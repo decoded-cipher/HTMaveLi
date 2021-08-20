@@ -9,4 +9,4 @@ The idea behind the event was to create a portfolio website for Maveli and to ma
 - [**Gopika K**]()
 
 ### Content Courtesy
-- [MYTH BEHIND ONAM | പുരാണങ്ങളാൽ കുഴിച്ചുമൂടപ്പെട്ട ചരിത്രങ്ങൾ DARKMODE ©BeyporeSultan Vlog 138](https://youtu.be/xAQOv4ffWOo)
+[MYTH BEHIND ONAM | പുരാണങ്ങളാൽ കുഴിച്ചുമൂടപ്പെട്ട ചരിത്രങ്ങൾ DARKMODE ©BeyporeSultan Vlog 138](https://youtu.be/xAQOv4ffWOo)
